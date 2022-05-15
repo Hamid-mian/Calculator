@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="equal">=</string>
     <string name="zero">0</string>
     <string name="text">0</string>
     <string name="one">1</string>
@@ -17,6 +18,8 @@
     <string name="clear">Clear</string>
     <string name="plus">+</string>
     <string name="subtract">-</string>
+    <string name="ans">ANS</string>
+    <string name="back">DEG</string>
     <string name="result">Result:</string>
     <string name="resultview">0</string>
 </resources>
